@@ -15,9 +15,9 @@ Hi there 👋 It's me, Rithika!
 
 - 🌱 I’m currently learning Machine Learning in Trading [Coursera]
 - 👯 I’m looking to collaborate on OSU Annual AI Hackathon 2024!
-- 🤝 I’m looking for help with HealthGuardian- predicts health challenges using AI
+- 🤝 I’m looking for help with HealthGuardian- predicts health challenges using AI.
 - 👨‍💻 Some of my projects are available at [https://vermillion-speculoos-da29b2.netlify.app/](https://vermillion-speculoos-da29b2.netlify.app/)
-- 💬 Ask me about how I can contribute to your success
+- 💬 Ask me about how I can contribute to your success.
 - 📫 How to reach me **annareddy.1@buckeyemail.osu.edu**
 - 📄 Know about my experiences [https://www.linkedin.com/in/rithika-annareddy/](https://www.linkedin.com/in/rithika-annareddy/)
 - ⚡ Fun fact Bananas are berries, but strawberries are not.
