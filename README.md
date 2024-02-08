@@ -13,7 +13,7 @@ Hi there 👋 It's me, Rithika!
 
 ## ⚡🙋‍♂️ About Me
 
-- 🌱 I’m currently learning Machine Learning in Trading [Coursera]
+- 🌱 I’m currently learning Machine Learning in Trading [Google Cloud]
 - 👯 I’m looking to collaborate on OSU Annual AI Hackathon 2024!
 - 🤝 I’m looking for help with HealthGuardian- predicts health challenges using AI.
 - 👨‍💻 Some of my projects are available at [https://vermillion-speculoos-da29b2.netlify.app/](https://vermillion-speculoos-da29b2.netlify.app/)
