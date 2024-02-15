@@ -1,17 +1,18 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">
-Hi there 👋 It's me, Rithika!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> It's me, Rithika!</h1>
 <br/>
 
 <p align="center">
   <a href="https://github.com/annareddy1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rithika-annareddy/)
+[![Outlook Badge](https://img.shields.io/badge/-annareddy.1@osu.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:annareddy.1@osu.edu) 
+
 <p>Welcome to my profile! I am a Python Developer with 3 years experience navigating diverse domains, including machine learning, data analysis, and web-based application development. I value collaborative and data-driven working environments that aim to build a better future.</p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rithika-annareddy/)
-
-## ⚡🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning Machine Learning in Trading [Google Cloud]
 - 👯 I’m looking to collaborate on OSU Annual AI Hackathon 2024!
@@ -22,23 +23,32 @@ Hi there 👋 It's me, Rithika!
 - 📄 Know about my experiences [https://www.linkedin.com/in/rithika-annareddy/](https://www.linkedin.com/in/rithika-annareddy/)
 - ⚡ Fun fact Bananas are berries, but strawberries are not.
 
+## ⚡ Things I love
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python
+- ✍️ Machine Learning 
+
 ## 🛠️ Technology
 
 #### Languages
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="R" width="40px" src="https://www.r-project.org/logo/Rlogo.svg"/>
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+
+<br/>
 
 
 #### Database
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+
+<br/>
 
 
 #### Data Visualization 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
 
@@ -48,14 +58,16 @@ Hi there 👋 It's me, Rithika!
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo==scipy&logoColor=%white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo==Matplotlib&logoColor=black)
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<img align="left" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+<img align="left" alt="OpenCV" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"/>
+<img align="left" alt="TensorFlow" width="40px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+<img align="left" alt="PyTorch" width="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/>
 
 #### Web Development
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+<img align="left" alt="Django" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
+<img align="left" alt="Flask" width="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/>
+
+<br/>
 
 
 
