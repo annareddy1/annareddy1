@@ -48,7 +48,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
-<br/>
 
 #### Machine Learning Library
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -61,12 +60,11 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 <img align="left" alt="TensorFlow" width="40px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
 <img align="left" alt="PyTorch" width="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/>
 
-<br/>
-
 #### Web Development
 <img align="left" alt="Django" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
 <img align="left" alt="Flask" width="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/>
 
+<br/>
 <br/>
 
 #### IDEs/Editors & Tools
