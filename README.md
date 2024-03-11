@@ -14,7 +14,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently pursuing "“MSc in Financial Engineering” by WorldQuant University
+- 🌱 I’m currently pursuing “MSc in Financial Engineering” by WorldQuant University
 - 👯 I’m looking to collaborate on OSU Annual AI Hackathon 2024!
 - 🤝 I’m looking for help with HealthGuardian- predicts health challenges using AI.
 - 👨‍💻 Some of my projects are available at [https://vermillion-speculoos-da29b2.netlify.app/](https://vermillion-speculoos-da29b2.netlify.app/)
