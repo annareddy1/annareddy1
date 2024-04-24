@@ -10,7 +10,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rithika-annareddy/)
 [![Outlook Badge](https://img.shields.io/badge/-annareddy.1@osu.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:annareddy.1@osu.edu) 
 
-<p>Welcome to my profile! I am a Python Developer with 3 years experience navigating diverse domains, including machine learning, data analysis, and web-based application development. I value collaborative and data-driven working environments that aim to build a better future.</p>
+<p>Welcome to my profile! I am a Data Scientist with 3 years experience navigating diverse domains, including machine learning, data analysis, and web-based application development. I value collaborative and data-driven working environments that aim to build a better future.</p>
 
 ## 🙋‍♂️ About Me
 
