@@ -10,13 +10,10 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rithika-annareddy/)
 [![Outlook Badge](https://img.shields.io/badge/-annareddy.1@osu.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:annareddy.1@osu.edu) 
 
-<p>Welcome to my profile! I am a Data Scientist with 3 years experience navigating diverse domains, including machine learning, data analysis, and web-based application development. I value collaborative and data-driven working environments that aim to build a better future.</p>
+<p>Welcome to my profile! I am a Software Engineer with 3 years experience navigating diverse domains, including machine learning, data analysis, and web-based application development. I value collaborative and data-driven working environments that aim to build a better future.</p>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently pursuing “MSc in Financial Engineering” by WorldQuant University
-- 👯 I’m looking to collaborate on OSU Annual AI Hackathon 2024!
-- 🤝 I’m looking for help with HealthGuardian- predicts health challenges using AI.
 - 📫 How to reach me **annareddy.1@buckeyemail.osu.edu**
 - 📄 Know about my experiences [https://www.linkedin.com/in/rithika-annareddy/](https://www.linkedin.com/in/rithika-annareddy/)
 
@@ -30,14 +27,14 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 #### Languages
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 <img align="left" alt="R" width="40px" src="https://www.r-project.org/logo/Rlogo.svg"/>
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 
 <br/>
 
 #### Database
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 
 <br/>
