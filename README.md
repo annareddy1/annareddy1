@@ -10,16 +10,22 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rithika-annareddy/)
 [![Outlook Badge](https://img.shields.io/badge/-annareddy.1@osu.edu-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:annareddy.1@osu.edu) 
 
-<p>Welcome to my profile! I am a Software Engineer with 3 years experience navigating diverse domains, including machine learning, data analysis, and web-based application development. I value collaborative and data-driven working environments that aim to build a better future.</p>
+<p> 
+  
+I am a Software Engineer with experience building scalable backend services, data pipelines, and analytics platforms. 
+
+Proficient in Java and Python backend development using Spring Boot, FastAPI/Flask, SQL, and cloud-native systems, with experience processing large-scale time-series data, optimizing performance, and delivering analytics-ready APIs. 
+
+Strong foundation in machine learning, NLP, and end-to-end system development, with a proven ability to translate complex data into reliable, production-grade systems.</p>
 
 ## 🙋‍♂️ About Me
 
-- 📫 How to reach me **annareddy.1@buckeyemail.osu.edu**
+- 📫 How to reach me **annareddy.1@osu.edu**
 - 📄 Know about my experiences [https://www.linkedin.com/in/rithika-annareddy/](https://www.linkedin.com/in/rithika-annareddy/)
 
 ## ⚡ Things I love
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Python
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Java
 - ✍️ Machine Learning 
 
 ## 🛠️ Technology
