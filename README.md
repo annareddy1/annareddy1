@@ -64,9 +64,10 @@ Strong foundation in machine learning, NLP, and end-to-end system development, w
 
 #### Web Development
 
+<img align="left" alt="Spring Boot" width="40px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
+<img align="left" alt="FastAPI" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
 <img align="left" alt="Django" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
 <img align="left" alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-<img align="left" alt="Spring Boot" width="40px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
 
 
 <br/>
