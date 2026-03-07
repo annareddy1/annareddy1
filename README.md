@@ -14,7 +14,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
   
 I am a Software Engineer with experience building scalable backend services, data pipelines, and analytics platforms. 
 
-Proficient in Java and Python backend development using Spring Boot, FastAPI/Flask, SQL, and cloud-native systems, with experience processing large-scale time-series data, optimizing performance, and delivering analytics-ready APIs. 
+Proficient in Java and Python backend development using Spring Boot, FastAPI, SQL, and cloud-native systems, with experience processing large-scale time-series data, optimizing performance, and delivering analytics-ready APIs. 
 
 Strong foundation in machine learning, NLP, and end-to-end system development, with a proven ability to translate complex data into reliable, production-grade systems.</p>
 
@@ -67,7 +67,6 @@ Strong foundation in machine learning, NLP, and end-to-end system development, w
 <img align="left" alt="Spring Boot" width="40px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
 <img align="left" alt="FastAPI" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"/>
 <img align="left" alt="Django" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
-<img align="left" alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
 
 
 <br/>
