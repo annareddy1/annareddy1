@@ -20,9 +20,6 @@ Strong foundation in machine learning, NLP, and end-to-end system development, w
 
 ## 🙋‍♂️ About Me
 
-- 📫 How to reach me **annareddy.1@osu.edu**
-- 📄 Know about my experiences [https://www.linkedin.com/in/rithika-annareddy/](https://www.linkedin.com/in/rithika-annareddy/)
-
 ## ⚡ Things I love
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Java
